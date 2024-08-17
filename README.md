@@ -1,6 +1,6 @@
 # E-Commerce Project
 
-An e-commerce project developed using Domain-Driven Design (DDD) principles, integrating RabbitMQ, Elasticsearch, Redis, and Hangfire for a robust infrastructure.
+An e-commerce project developed using Microservice principles, integrating RabbitMQ, Elasticsearch, Redis, and Hangfire for a robust infrastructure.
 
 ## Technologies
 
